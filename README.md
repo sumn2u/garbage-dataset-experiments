@@ -8,7 +8,8 @@ This repository contains the complete set of experiments, code, and results for 
 **"The Garbage Dataset (GD): A Multi-Class Image Benchmark for Automated Waste Segregation"**
 
 🔗 **Repository**: https://github.com/sumn2u/garbage-dataset-experiments  
-📄 **Article**: https://doi.org/10.5281/zenodo.18841812
+📄 **Article**: https://doi.org/10.5281/zenodo.18841812  
+📊 **Dataset (Kaggle)**: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2/
 
 ---
 
